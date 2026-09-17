@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Central four-channel node of the spherical system</title>
+  <desc id="desc">Four isolated channels pass near the sphere center at different spatial angles and diverge toward the outer arcs.</desc>
+  <defs>
+    <radialGradient id="sphere" cx="38%" cy="32%"><stop offset="0" stop-color="#ffffff" stop-opacity="0.9"/><stop offset="1" stop-color="#dce7f5" stop-opacity="0.75"/></radialGradient>
+    <radialGradient id="ball" cx="35%" cy="30%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.35" stop-color="#b7c1cc"/><stop offset="1" stop-color="#34404c"/></radialGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#d85f32"/></marker>
+  </defs>
+  <rect width="1200" height="720" fill="#f7f9fc"/>
+  <text x="55" y="58" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#172033">Central four-channel node</text>
+  <text x="55" y="91" font-family="Arial, sans-serif" font-size="16" fill="#5c6678">Channels pass near the center but remain physically separated, allowing four spheres to move simultaneously.</text>
+  <circle cx="430" cy="380" r="240" fill="url(#sphere)" stroke="#9db2cf" stroke-width="4"/>
+  <ellipse cx="430" cy="380" rx="240" ry="82" fill="none" stroke="#b8c7da" stroke-width="3" stroke-dasharray="10 8"/>
+  <ellipse cx="430" cy="380" rx="92" ry="240" fill="none" stroke="#b8c7da" stroke-width="3" stroke-dasharray="10 8" transform="rotate(25 430 380)"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M220 500 C315 445 515 325 640 255" stroke="#3377cf" stroke-width="31"/>
+    <path d="M255 225 C350 305 505 445 610 525" stroke="#7658ca" stroke-width="31"/>
+    <path d="M205 340 C330 355 520 400 660 425" stroke="#d65d8a" stroke-width="31"/>
+    <path d="M355 145 C390 260 465 500 500 610" stroke="#48a07a" stroke-width="31"/>
+    <path d="M220 500 C315 445 515 325 640 255" stroke="#eaf2ff" stroke-width="13"/>
+    <path d="M255 225 C350 305 505 445 610 525" stroke="#f1edff" stroke-width="13"/>
+    <path d="M205 340 C330 355 520 400 660 425" stroke="#fff0f5" stroke-width="13"/>
+    <path d="M355 145 C390 260 465 500 500 610" stroke="#eaf8f1" stroke-width="13"/>
+  </g>
+  <g fill="url(#ball)" stroke="#26313e" stroke-width="3">
+    <circle cx="392" cy="404" r="23"/><circle cx="444" cy="384" r="23"/><circle cx="468" cy="397" r="23"/><circle cx="429" cy="352" r="23"/>
+  </g>
+  <circle cx="430" cy="380" r="72" fill="none" stroke="#f1ad3d" stroke-width="4" stroke-dasharray="8 7"/>
+  <text x="430" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#9a5c00">phase synchronization zone</text>
+  <line x1="655" y1="275" x2="755" y2="225" stroke="#d85f32" stroke-width="4" marker-end="url(#arrow)"/>
+  <text x="780" y="220" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#33415c">Outer and inner arcs</text>
+  <text x="780" y="248" font-family="Arial, sans-serif" font-size="15" fill="#5c6678">Large lever arm for turning torque</text>
+  <line x1="510" y1="375" x2="755" y2="360" stroke="#d85f32" stroke-width="4" marker-end="url(#arrow)"/>
+  <text x="780" y="355" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#33415c">Four isolated passages</text>
+  <text x="780" y="383" font-family="Arial, sans-serif" font-size="15" fill="#5c6678">No common chamber or direct collision</text>
+  <line x1="430" y1="465" x2="755" y2="500" stroke="#d85f32" stroke-width="4" marker-end="url(#arrow)"/>
+  <text x="780" y="497" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#33415c">Central region</text>
+  <text x="780" y="525" font-family="Arial, sans-serif" font-size="15" fill="#5c6678">Linear-reaction cancellation and phase alignment</text>
+  <text x="55" y="672" font-family="Arial, sans-serif" font-size="15" fill="#5c6678">Conceptual diagram: exact channel offsets depend on sphere diameter, wall thickness, coils, and the load-bearing frame.</text>
+</svg>
