@@ -1,0 +1,28 @@
+{
+  "title": "Self-Calibrating Spatial Reaction-Mass Actuation Platform",
+  "description": "English technical disclosure of a generalized self-calibrating spatial reaction-mass actuation architecture. Preferred embodiments include controlled magnetic or ferromagnetic movers in closed electromagnetic spatial guideways, learned force/torque response maps, multi-axis compensation, surface-coupled locomotion, compliant-support impulse assistance, and a spherical mobile demonstrator with potential hop-assisted motion.",
+  "creators": [
+    {
+      "name": "Dik, Philip"
+    }
+  ],
+  "keywords": [
+    "reaction-mass actuator",
+    "spatial reaction-mass actuation",
+    "distributed electromagnetic actuation",
+    "closed-loop guideway",
+    "phase-selective actuation",
+    "system identification",
+    "force torque response map",
+    "inertial locomotion",
+    "active balancing",
+    "impulse assistance",
+    "spherical mobile robot",
+    "hopping robot"
+  ],
+  "language": "eng",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "publication_date": "2026-09-17",
+  "version": "0.4-en"
+}
