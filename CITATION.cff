@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use or discuss this concept, please cite this repository."
+title: "Self-Calibrating Spatial Reaction-Mass Actuation Platform"
+type: software
+authors:
+  - family-names: "Dik"
+    given-names: "Philip"
+date-released: 2026-09-17
+version: "0.4-en"
+abstract: >-
+  A generalized self-calibrating reaction-mass actuation architecture using
+  controlled internal masses and spatial guideways to generate programmable
+  force, torque, vibration, attitude response, and surface-coupled locomotion.
+  A preferred embodiment uses a magnetic or ferromagnetic mover in a closed
+  electromagnetic guide with phase-selective actuation and a learned
+  force/torque response map.
+keywords:
+  - reaction-mass actuator
+  - spatial reaction-mass actuation
+  - distributed electromagnetic actuation
+  - closed-loop guideway
+  - phase-selective actuation
+  - system identification
+  - force torque response map
+  - inertial locomotion
+  - active balancing
+  - impulse assistance
+  - spherical mobile robot
+  - hopping robot
+repository-code: "[add public repository URL]"
