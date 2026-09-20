@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
-  <title id="title">Spatial reaction-mass actuation concept</title>
-  <desc id="desc">A preferred non-planar electromagnetic guide embodiment with a free reaction-mass mover, distributed coils, reaction vectors, sensors, and a controller.</desc>
+  <title id="title">Earlier single-guide concept</title>
+  <desc id="desc">Earlier one-mover guide sketch. Paths and reaction arrows are illustrative; this is not the current four-path layout.</desc>
   <defs>
     <linearGradient id="track" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#1f77b4"/>
@@ -24,8 +24,8 @@
   </defs>
 
   <rect width="1200" height="720" fill="#f7f9fc"/>
-  <text x="60" y="65" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#172033">Spatial reaction-mass actuation</text>
-  <text x="60" y="98" font-family="Arial, sans-serif" font-size="17" fill="#5c6678">Local geometry constrains each impulse; multiple path phases synthesize body force and torque.</text>
+  <text x="60" y="65" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#172033">Earlier single-guide concept</text>
+  <text x="60" y="98" font-family="Arial, sans-serif" font-size="17" fill="#5c6678">Illustrative path and reaction arrows; attainable control authority is unverified.</text>
 
   <g filter="url(#shadow)">
     <rect x="55" y="130" width="760" height="470" rx="34" fill="#ffffff" stroke="#d9e0ea" stroke-width="2"/>
@@ -93,6 +93,7 @@
     <line x1="1000" y1="464" x2="1000" y2="492"/>
   </g>
 
-  <text x="60" y="654" font-family="Arial, sans-serif" font-size="15" fill="#5c6678">Surface locomotion requires external friction. In free space, internal motion can exchange attitude and momentum inside the system but cannot translate its combined center of mass.</text>
+  <text x="60" y="654" font-family="Arial, sans-serif" font-size="15" fill="#5c6678">Internal actuation cannot change the isolated total centre-of-mass trajectory.</text>
 </svg>
+
 

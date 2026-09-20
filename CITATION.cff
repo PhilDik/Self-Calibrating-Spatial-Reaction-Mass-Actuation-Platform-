@@ -1,30 +1,29 @@
 cff-version: 1.2.0
-message: "If you use or discuss this concept, please cite this repository."
+message: "Please cite the technical concept note using the preferred citation below; this repository does not provide a validated software implementation."
 title: "Self-Calibrating Spatial Reaction-Mass Actuation Platform"
 type: software
 authors:
   - family-names: "Dik"
-    given-names: "Philip"
-date-released: 2026-09-17
-version: "0.4-en"
+    given-names: "Philipp"
 abstract: >-
-  A generalized self-calibrating reaction-mass actuation architecture using
-  controlled internal masses and spatial guideways to generate programmable
-  force, torque, vibration, attitude response, and surface-coupled locomotion.
-  A preferred embodiment uses a magnetic or ferromagnetic mover in a closed
-  electromagnetic guide with phase-selective actuation and a learned
-  force/torque response map.
+  An unvalidated concept for four independently controlled solid movers in
+  spatially offset, interwoven closed guide paths with phase-dependent
+  acceleration and braking. Compensation and three-axis torque authority
+  require validation. Earlier one-mover and ground-robot embodiments are
+  distinguished from the current four-path proposal.
+url: "https://github.com/PhilDik/Self-Calibrating-Spatial-Reaction-Mass-Actuation-Platform-"
+repository-code: "https://github.com/PhilDik/Self-Calibrating-Spatial-Reaction-Mass-Actuation-Platform-"
 keywords:
   - reaction-mass actuator
-  - spatial reaction-mass actuation
-  - distributed electromagnetic actuation
   - closed-loop guideway
-  - phase-selective actuation
+  - distributed electromagnetic actuation
   - system identification
-  - force torque response map
-  - inertial locomotion
-  - active balancing
-  - impulse assistance
-  - spherical mobile robot
-  - hopping robot
-repository-code: "[add public repository URL]"
+preferred-citation:
+  type: report
+  title: "Self-Calibrating Spatial Reaction-Mass Actuation Platform"
+  authors:
+    - family-names: "Dik"
+      given-names: "Philipp"
+  year: 2026
+  url: "https://github.com/PhilDik/Self-Calibrating-Spatial-Reaction-Mass-Actuation-Platform-"
+

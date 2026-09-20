@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
-  <title id="title">Central four-channel node of the spherical system</title>
-  <desc id="desc">Four isolated channels pass near the sphere center at different spatial angles and diverge toward the outer arcs.</desc>
+  <title id="title">Historical central-node concept — superseded</title>
+  <desc id="desc">Superseded concept retained for history only. It does not describe the current four-path proposal or demonstrate cancellation.</desc>
   <defs>
     <radialGradient id="sphere" cx="38%" cy="32%"><stop offset="0" stop-color="#ffffff" stop-opacity="0.9"/><stop offset="1" stop-color="#dce7f5" stop-opacity="0.75"/></radialGradient>
     <radialGradient id="ball" cx="35%" cy="30%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.35" stop-color="#b7c1cc"/><stop offset="1" stop-color="#34404c"/></radialGradient>
     <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#d85f32"/></marker>
   </defs>
   <rect width="1200" height="720" fill="#f7f9fc"/>
-  <text x="55" y="58" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#172033">Central four-channel node</text>
-  <text x="55" y="91" font-family="Arial, sans-serif" font-size="16" fill="#5c6678">Channels pass near the center but remain physically separated, allowing four spheres to move simultaneously.</text>
+  <text x="55" y="58" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#172033">Historical central-node concept</text>
+  <text x="55" y="91" font-family="Arial, sans-serif" font-size="16" fill="#5c6678">Superseded on 18 September 2026; not part of the current specification.</text>
   <circle cx="430" cy="380" r="240" fill="url(#sphere)" stroke="#9db2cf" stroke-width="4"/>
   <ellipse cx="430" cy="380" rx="240" ry="82" fill="none" stroke="#b8c7da" stroke-width="3" stroke-dasharray="10 8"/>
   <ellipse cx="430" cy="380" rx="92" ry="240" fill="none" stroke="#b8c7da" stroke-width="3" stroke-dasharray="10 8" transform="rotate(25 430 380)"/>
@@ -35,6 +35,7 @@
   <text x="780" y="383" font-family="Arial, sans-serif" font-size="15" fill="#5c6678">No common chamber or direct collision</text>
   <line x1="430" y1="465" x2="755" y2="500" stroke="#d85f32" stroke-width="4" marker-end="url(#arrow)"/>
   <text x="780" y="497" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#33415c">Central region</text>
-  <text x="780" y="525" font-family="Arial, sans-serif" font-size="15" fill="#5c6678">Linear-reaction cancellation and phase alignment</text>
-  <text x="55" y="672" font-family="Arial, sans-serif" font-size="15" fill="#5c6678">Conceptual diagram: exact channel offsets depend on sphere diameter, wall thickness, coils, and the load-bearing frame.</text>
+  <text x="780" y="525" font-family="Arial, sans-serif" font-size="15" fill="#5c6678">Earlier compensation objective, unverified</text>
+  <text x="55" y="672" font-family="Arial, sans-serif" font-size="15" fill="#5c6678">Historical drawing only; geometry, clearance and compensation were not validated.</text>
 </svg>
+

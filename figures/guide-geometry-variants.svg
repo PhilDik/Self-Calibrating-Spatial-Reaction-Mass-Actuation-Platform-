@@ -1,22 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
-  <title id="title">Closed guide geometry variants</title>
-  <desc id="desc">Planar loop, non-planar elongated loop, and spherical interwoven guide with inner arcs.</desc>
+  <title id="title">Earlier guide sketches</title>
+  <desc id="desc">Earlier schematic guide variants. These do not specify the current four-path geometry or establish its workspace.</desc>
   <defs><marker id="a" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#e06a2d"/></marker><radialGradient id="b" cx="35%" cy="30%"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#3d4855"/></radialGradient></defs>
   <rect width="1200" height="620" fill="#f7f9fc"/>
-  <text x="55" y="55" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#172033">Guide geometry controls the impulse workspace</text>
+  <text x="55" y="55" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#172033">Earlier guide sketches — workspace unverified</text>
   <g font-family="Arial, sans-serif">
     <rect x="45" y="95" width="340" height="455" rx="25" fill="#fff" stroke="#d6deea" stroke-width="2"/><text x="215" y="135" text-anchor="middle" font-size="18" font-weight="700" fill="#33415c">Planar loop</text>
     <ellipse cx="215" cy="312" rx="120" ry="92" fill="none" stroke="#3f78cf" stroke-width="13"/><circle cx="308" cy="370" r="20" fill="url(#b)"/>
     <line x1="304" y1="346" x2="340" y2="300" stroke="#e06a2d" stroke-width="4" marker-end="url(#a)"/><text x="215" y="465" text-anchor="middle" font-size="14" fill="#5c6678">Simple circulation and periodic reaction</text>
     <rect x="430" y="95" width="340" height="455" rx="25" fill="#fff" stroke="#d6deea" stroke-width="2"/><text x="600" y="135" text-anchor="middle" font-size="18" font-weight="700" fill="#33415c">Elongated non-planar loop</text>
     <path d="M480 340 C515 205 680 205 720 325 C685 445 520 452 480 340" fill="none" stroke="#735bc8" stroke-width="13"/><path d="M538 258 C575 310 630 365 691 407" fill="none" stroke="#9fb1db" stroke-width="10" stroke-dasharray="9 8"/><circle cx="532" cy="414" r="20" fill="url(#b)"/>
-    <line x1="527" y1="390" x2="494" y2="342" stroke="#e06a2d" stroke-width="4" marker-end="url(#a)"/><text x="600" y="465" text-anchor="middle" font-size="14" fill="#5c6678">Selected axes plus out-of-plane control</text>
+    <line x1="527" y1="390" x2="494" y2="342" stroke="#e06a2d" stroke-width="4" marker-end="url(#a)"/><text x="600" y="465" text-anchor="middle" font-size="14" fill="#5c6678">Out-of-plane geometry; authority unverified</text>
     <rect x="815" y="95" width="340" height="455" rx="25" fill="#fff" stroke="#d6deea" stroke-width="2"/><text x="985" y="135" text-anchor="middle" font-size="18" font-weight="700" fill="#33415c">Spherical interwoven guide</text>
     <circle cx="985" cy="315" r="140" fill="#eef3fb" stroke="#9eb1cc" stroke-width="3"/>
     <ellipse cx="985" cy="315" rx="140" ry="55" fill="none" stroke="#3977cb" stroke-width="10"/><ellipse cx="985" cy="315" rx="58" ry="140" fill="none" stroke="#7459ca" stroke-width="10" transform="rotate(28 985 315)"/>
     <path d="M865 250 C930 410 1045 410 1105 250" fill="none" stroke="#d0648d" stroke-width="10"/><path d="M885 385 C950 285 1020 255 1090 220" fill="none" stroke="#48a07a" stroke-width="9" stroke-dasharray="10 7"/>
     <circle cx="907" cy="387" r="20" fill="url(#b)"/><line x1="902" y1="365" x2="870" y2="320" stroke="#e06a2d" stroke-width="4" marker-end="url(#a)"/>
-    <text x="985" y="475" text-anchor="middle" font-size="14" fill="#5c6678">Outer arcs, inner chords, separated crossings</text><text x="985" y="498" text-anchor="middle" font-size="14" fill="#5c6678">and optional switched junctions</text>
+    <text x="985" y="475" text-anchor="middle" font-size="14" fill="#5c6678">Outer arcs, inner chords, separated crossings</text><text x="985" y="498" text-anchor="middle" font-size="14" fill="#5c6678">historical schematic; clearance unverified</text>
   </g>
   <text x="55" y="588" font-family="Arial, sans-serif" font-size="14" fill="#5c6678">Each short pulse is localized in time; its direction and torque arm depend on the selected local arc.</text>
 </svg>
+
